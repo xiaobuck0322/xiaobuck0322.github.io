@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Text Shadow Exercise</title>
+  <style>
+    .orange-shadow {
+      font-size: 48px;
+      font-weight: bold;
+      text-shadow: 3px 3px 5px orange;
+    }
+
+    .gray-silver-shadow {
+      font-size: 48px;
+      font-weight: bold;
+      text-shadow: 3px 3px 3px gray, 6px 6px 6px silver;
+    }
+  </style>
+</head>
+<body>
+  <p class="orange-shadow">Hi world~</p>
+  <p class="gray-silver-shadow">Hi world~</p>
+</body>
+</html>
