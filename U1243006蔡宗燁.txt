@@ -1,5 +1,0 @@
-
-a = int(input("請輸入第一個數字："))
-b = int(input("請輸入第二個數字："))
-sum = a + b
-print("兩個數字的總和是：", sum)
